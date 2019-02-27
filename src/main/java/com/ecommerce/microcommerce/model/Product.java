@@ -17,7 +17,7 @@ import java.util.List;
 //@JsonFilter("monFiltreDynamique")
 public class Product {
 	
-	public int temp=0;
+	public int temp=1;
 
     @Id
     @GeneratedValue
