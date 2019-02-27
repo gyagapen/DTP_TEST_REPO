@@ -19,8 +19,6 @@ public class Product {
 	
 	public int temp=1;
 
-    public String temp = "test";
-
     @Id
     @GeneratedValue
     private int id;
